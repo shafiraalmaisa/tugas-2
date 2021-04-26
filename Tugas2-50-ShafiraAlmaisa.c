@@ -141,6 +141,8 @@ int main() {
   }
 
   payment();
+  
+  printf("\n\nEnjoy your drink! <3\nthanks for buying~");
 
   return 0;
 }
